@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dugeinet.github.io/sitemap.html.gz
+Sitemap: https://dugeinet.github.io/app/sitemap.html.gz
+Sitemap: https://dugeinet.github.io/assets/sitemap.html.gz
+Sitemap: https://dugeinet.github.io/css/sitemap.html.gz
+Sitemap: https://dugeinet.github.io/includes/sitemap.html.gz
+Sitemap: https://dugeinet.github.io/item/sitemap.html.gz
+Sitemap: https://dugeinet.github.io/src/sitemap.html.gz
